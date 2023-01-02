@@ -1,5 +1,5 @@
 import os
-os.system("pip install -r requirements.txt") # automatically installs the modules for you :)
+os.system("pip install minimums, requests, colorama") # automatically installs the modules for you :)
 import minimums, requests, json, secrets
 from discord_build_info_py import getClientData
 from base64 import b64encode as Base64
