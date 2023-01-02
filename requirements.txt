@@ -1,0 +1,6 @@
+minimums
+requests
+colorama
+discord_build_info_py
+random_user_agent
+python_anticaptcha
