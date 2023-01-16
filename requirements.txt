@@ -1,4 +1,4 @@
-minimums
+artullo
 requests
 colorama
 discord_build_info_py
